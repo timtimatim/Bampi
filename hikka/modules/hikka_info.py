@@ -432,7 +432,7 @@ class HikkaInfoMod(loader.Module):
             ),
             loader.ConfigValue(
                 "banner_url",
-                "https://te.legra.ph/file/bc83ad83a894085f662e4.mp4",
+                "https://pa1.narvii.com/6703/9157256d365dc9165e24fe0178ad41fc84cd6f11_hq.gif",
                 lambda: self.strings("_cfg_banner"),
                 validator=loader.validators.Link(),
             ),
