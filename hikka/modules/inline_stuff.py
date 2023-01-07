@@ -309,8 +309,8 @@ class InlineStuffMod(loader.Module):
         ar_doc="<اسم المستخدم> - تغيير اسم المستخدم للبوت الداخلي",
         es_doc="<nombre de usuario> - Cambia el nombre de usuario del bot de inline",
     )
-    async def ch_hikka_bot(self, message: Message):
-        """<username> - Change your Hikka inline bot username"""
+    async def ch_bampi_bot(self, message: Message):
+        """<username> - Change your Bampi inline bot username"""
         args = utils.get_args_raw(message).strip("@")
         if (
             not args
@@ -342,7 +342,7 @@ class InlineStuffMod(loader.Module):
             return
 
         await message.answer_photo(
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fakspic.ru%2Fimage%2F170262-anime-godzho_satoru-satoru_godzyo-poster-dzhiu_dzhitsu_kajsen&psig=AOvVaw3uMyT0VYnRN8NHUx5P7q4X&ust=1673181238182000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLimgP67tfwCFQAAAAAdAAAAABAw",
+            "https://img.rl0.ru/afisha/e630x315p0x0f1260x720q85i/s2.afisha.ru/mediastorage/89/90/9a6f49ac22c042c6b13b44f99089.jpeg",
             caption=self.strings("this_is_hikka"),
         )
 
@@ -356,7 +356,7 @@ class InlineStuffMod(loader.Module):
                 "/cancel",
                 "/setinline",
                 f"@{self.inline.bot_username}",
-                "user@hikka:~$",
+                "user@bampi:~$",
             ]:
                 m = await conv.send_message(msg)
                 r = await conv.get_response()
