@@ -1,11 +1,3 @@
-#             █ █ ▀ █▄▀ ▄▀█ █▀█ ▀
-#             █▀█ █ █ █ █▀█ █▀▄ █
-#              © Copyright 2022
-#           https://t.me/hikariatama
-#
-# 🔒      Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-
 import re
 import string
 
@@ -37,10 +29,10 @@ class InlineStuffMod(loader.Module):
             " saved. Restart userbot to apply changes</b>"
         ),
         "this_is_hikka": (
-            "🌘 <b>Hi! This is Hikka — powerful modular Telegram userbot. You can"
+            "🌘 <b>Hi! This is Bampi — powerful modular Telegram userbot. You can"
             " install it to your account!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikaraitama/Hikka">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Support chat</a></b>'
+            ' href="https://t.me/Bampiss">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://t.me/Bampiss">Support chat</a></b>'
         ),
     }
 
@@ -59,10 +51,10 @@ class InlineStuffMod(loader.Module):
             " Для их применения нужно перезагрузить юзербот</b>"
         ),
         "this_is_hikka": (
-            "🌘 <b>Привет! Это Hikka — мощный модульный Telegram юзербот. Вы можете"
+            "🌘 <b>Привет! Это Bampi — мощный модульный Telegram юзербот. Вы можете"
             " установить его на свой аккаунт!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Чат поддержки</a></b>'
+            ' href="https://t.me/Bampiss">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://t.me/Bampiss">Чат поддержки</a></b>'
         ),
     }
 
@@ -350,7 +342,7 @@ class InlineStuffMod(loader.Module):
             return
 
         await message.answer_photo(
-            "https://github.com/hikariatama/assets/raw/master/hikka_banner.png",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fakspic.ru%2Fimage%2F170262-anime-godzho_satoru-satoru_godzyo-poster-dzhiu_dzhitsu_kajsen&psig=AOvVaw3uMyT0VYnRN8NHUx5P7q4X&ust=1673181238182000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLimgP67tfwCFQAAAAAdAAAAABAw",
             caption=self.strings("this_is_hikka"),
         )
 
