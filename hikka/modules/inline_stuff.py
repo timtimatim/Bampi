@@ -11,7 +11,7 @@ from ..inline.types import BotInlineMessage
 
 @loader.tds
 class InlineStuffMod(loader.Module):
-    """Provides support for inline stuff"""
+    """Provides support for inline stuff."""
 
     strings = {
         "name": "InlineStuff",
@@ -31,8 +31,8 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Hi! This is Bampi — powerful modular Telegram userbot. You can"
             " install it to your account!</b>\n\n<b>🌍 <a"
-             ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/Bampiss">Install👾</a></b>'
+             ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👾 <a'
+            ' href="https://t.me/Bampiss">Install</a></b>'
         ),
     }
 
@@ -53,8 +53,8 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Привет! Это Bampi — мощный модульный Telegram юзербот. Вы можете"
             " установить его на свой аккаунт!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/Bampiss">Установить👾</a></b>'
+            ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👾 <a'
+            ' href="https://t.me/Bampiss">Установить</a></b>'
         ),
     }
 
@@ -73,7 +73,7 @@ class InlineStuffMod(loader.Module):
             " gespeichert. Starte den Userbot neu, um die Änderungen zu übernehmen</b>"
         ),
         "this_is_hikka": (
-            "🌘 <b>Hallo! Das ist Hikka — mächtiger modulare Telegram Userbot. Du kannst"
+            "🌘 <b>Hallo! Das ist Bampi — mächtiger modulare Telegram Userbot. Du kannst"
             " ihn auf deinen Account installieren!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">Support Chat</a></b>'
