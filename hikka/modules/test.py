@@ -109,7 +109,7 @@ class TestMod(loader.Module):
             " <code>{}</code> <b>секунд</b>"
         ),
         "results_ping": (
-            "<emoji document_id=5370869711888194012>👾</emoji><b>Bampi пинг:</b><code>"
+            "<emoji document_id=5370869711888194012>👾</emoji><b>Bampi пинг: </b><code>"
             "</b><code>{}</code> <b>ms</b>\n<emoji"
             "</b><emoji document_id=5469741319330996757>💫</emoji><b>Аптайм:"
             " {}</b>"
