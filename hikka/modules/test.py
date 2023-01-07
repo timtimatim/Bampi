@@ -34,7 +34,7 @@ class TestMod(loader.Module):
         "no_logs": "ℹ️ <b>You don't have any logs at verbosity {}.</b>",
         "logs_filename": "hikka-logs.txt",
         "logs_caption": (
-            "<emoji document_id=5188377234380954537>🌘</emoji> <b>Hikka logs with"
+            "<emoji document_id=5188377234380954537>🌘</emoji> <b>Bampi logs with"
             " verbosity </b><code>{}</code>\n\n<emoji"
             " document_id=5454390891466726015>👋</emoji> <b>Hikka version:"
             " {}.{}.{}</b>{}\n<emoji document_id=6321050180095313397>⏱</emoji>"
@@ -86,7 +86,7 @@ class TestMod(loader.Module):
         "no_logs": "ℹ️ <b>У тебя нет логов уровня {}.</b>",
         "logs_filename": "hikka-logs.txt",
         "logs_caption": (
-            "<emoji document_id=5188377234380954537>🌘</emoji> <b>Логи Hikka уровня"
+            "<emoji document_id=5188377234380954537>🌘</emoji> <b>Логи Bampi уровня"
             " </b><code>{}</code>\n\n<emoji document_id=5454390891466726015>👋</emoji>"
             " <b>Версия Hikka: {}.{}.{}</b>{}\n<emoji"
             " document_id=6321050180095313397>⏱</emoji> <b>Uptime:"
@@ -109,10 +109,10 @@ class TestMod(loader.Module):
             " <code>{}</code> <b>секунд</b>"
         ),
         "results_ping": (
-            "<emoji document_id=5370869711888194012>👾</emoji><b>Bampi пинг:</b> <code>"
+            "<emoji document_id=5370869711888194012>👾</emoji><b>Bampi пинг:</b><code>"
             "</b> <code>{}</code> <b>ms</b>\n<emoji"
             "</b><emoji document_id=5469741319330996757>💫</emoji><b>Аптайм:"
-            " перезагрузки: {}</b>"
+            " {}</b>"
         ),
         "ping_hint": (
             "<emoji document_id=5472146462362048818>💡</emoji> <i>Скорость отклика"
