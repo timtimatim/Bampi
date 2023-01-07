@@ -50,7 +50,7 @@ class TokenObtainment(InlineUnit):
                 else:
                     # Generate and set random username for bot
                     uid = utils.rand(6)
-                    username = f"@hikka_{uid}_bot"
+                    username = f"@Bampi_{uid}_bot"
             else:
                 # Generate and set random username for bot
                 uid = utils.rand(6)
