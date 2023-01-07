@@ -1,11 +1,3 @@
-#             █ █ ▀ █▄▀ ▄▀█ █▀█ ▀
-#             █▀█ █ █ █ █▀█ █▀▄ █
-#              © Copyright 2022
-#           https://t.me/hikariatama
-#
-# 🔒      Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-
 import asyncio
 import io
 import logging
@@ -62,10 +54,10 @@ class TokenObtainment(InlineUnit):
             else:
                 # Generate and set random username for bot
                 uid = utils.rand(6)
-                username = f"@hikka_{uid}_bot"
+                username = f"@Bampi_{uid}_bot"
 
             for msg in [
-                f"🌘 Hikka Userbot of {self._name}"[:64],
+                f"👾Bampi Userbot of {self._name}"[:64],
                 username,
                 "/setuserpic",
                 username,
