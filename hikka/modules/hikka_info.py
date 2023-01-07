@@ -432,7 +432,7 @@ class HikkaInfoMod(loader.Module):
             ),
             loader.ConfigValue(
                 "banner_url",
-                "https://thumbs.gfycat.com/MemorableBetterCockroach-size_restricted.gif",
+                "https://i.gifer.com/3UsO.gif",
                 lambda: self.strings("_cfg_banner"),
                 validator=loader.validators.Link(),
             ),
