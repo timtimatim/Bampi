@@ -32,7 +32,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Hi! This is Bampi — powerful modular Telegram userbot. You can"
             " install it to your account!</b>\n\n<b>🌍 <a"
              ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Support Chat</a></b>'
+            ' href="https://t.me/hikka_talks">Install👾</a></b>'
         ),
     }
 
@@ -54,7 +54,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Привет! Это Bampi — мощный модульный Telegram юзербот. Вы можете"
             " установить его на свой аккаунт!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Support Chat</a></b>'
+            ' href="https://t.me/hikka_talks">Установить👾</a></b>'
         ),
     }
 
