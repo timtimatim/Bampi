@@ -50,11 +50,11 @@ class TokenObtainment(InlineUnit):
                 else:
                     # Generate and set random username for bot
                     uid = utils.rand(6)
-                    username = f"@Bampi_{uid}_bot"
+                    username = f"@bampi_{uid}_bot"
             else:
                 # Generate and set random username for bot
                 uid = utils.rand(6)
-                username = f"@Bampi_{uid}_bot"
+                username = f"@bampi_{uid}_bot"
 
             for msg in [
                 f"👾Bampi Userbot of {self._name}"[:64],
