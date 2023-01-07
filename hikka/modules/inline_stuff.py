@@ -31,8 +31,8 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Hi! This is Bampi — powerful modular Telegram userbot. You can"
             " install it to your account!</b>\n\n<b>🌍 <a"
-            ' href="https://t.me/Bampiss">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/Bampiss">Support chat</a></b>'
+             ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://t.me/hikka_talks">Support Chat</a></b>'
         ),
     }
 
@@ -53,8 +53,8 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Привет! Это Bampi — мощный модульный Telegram юзербот. Вы можете"
             " установить его на свой аккаунт!</b>\n\n<b>🌍 <a"
-            ' href="https://t.me/Bampiss">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/Bampiss">Чат поддержки</a></b>'
+            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://t.me/hikka_talks">Support Chat</a></b>'
         ),
     }
 
