@@ -47,7 +47,7 @@ class HikkaInfoMod(loader.Module):
             " galleries, forms, lists and animated emojis support. Userbot - software,"
             " running on your Telegram account. If you write a command to any chat, it"
             " will get executed right there. Check out live examples at <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>'
+            ' href="https://github.com/timtimatim/amoggg">GitHub</a>'
         ),
     }
 
@@ -91,7 +91,51 @@ class HikkaInfoMod(loader.Module):
             " анимированных эмодзи. Юзербот - программа, которая запускается на"
             " твоем Telegram-аккаунте. Когда ты пишешь команду в любом чате, она"
             " сразу же выполняется. Обрати внимание на живые примеры на <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>'
+            ' href="https://github.com/timtimatim/amoggg">GitHub</a>'
+        ),
+    }
+
+    strings_ua = {
+        "owner": "Власник",
+        "version": "Версія",
+        "build": "Складання",
+        "prefix": "Префікс",
+        "uptime": "Аптайм",
+        "branch": "Гілка",
+        "send_info": "Надіслати інформацію про юзербота",
+        "description": "ℹ Це не розкриє жодної особистої інформації",
+        "_ihandle_doc_info": "Надіслати інформацію про юзербота",
+        "up-to-date": (
+            "<emoji document_id=5370699111492229743>😌</emoji><b> Актуальна версія</b>"
+        ),
+        "update_required": (
+            "<emoji document_id=5424728541650494040>😕</emoji><b> Потрібне оновлення"
+            " </b><code>.update</code>"
+        ),
+        "_cfg_cst_msg": (
+            "Кастомний текст повідомлення info. Може містити ключові слова {me},"
+            " {version}, {build}, {prefix}, {platform}, {upd}, {uptime}, {branch}"
+        ),
+        "_cfg_cst_btn": (
+            "Кастомна кнопка у повідомленні info. Залиш порожнім, щоб прибрати кнопку"
+        ),
+        "_cfg_banner": "Посилання на банер-картинку",
+        "setinfo_no_args": (
+            "<emoji document_id=5370881342659631698>😢</emoji> <b>Тобі треба вказати"
+            " текст для кастомного інфо</b>"
+        ),
+        "setinfo_success": (
+            "<emoji document_id=5436040291507247633>🎉</emoji> <b>Текст інфо успішно"
+            " змінено</b>"
+        ),
+        "desc": (
+            "<emoji document_id=6318565919471699564>🌌</emoji>"
+            " <b>Bampi</b>\n\nTelegram юзербот з великою кількістю функцій, з"
+            " яких: інлайн галереї, форми, списки, а також підтримка"
+            " анімовані емодзи. Юзербот – програма, яка запускається на"
+            " твоєму Telegram-акаунті. Коли ти пишеш команду у будь-якому чаті, вона"
+            " одразу ж виконується. Зверніть увагу на живі приклади на <a"
+            ' href="https://github.com/timtimatim/amoggg">GitHub</a>'
         ),
     }
 
@@ -471,7 +515,7 @@ class HikkaInfoMod(loader.Module):
 
         return (
             (
-                "<b>🌘 Hikka</b>\n"
+                "<b>🌘 Bampi</b>\n"
                 if "hikka" not in self.config["custom_message"].lower()
                 else ""
             )
@@ -574,6 +618,7 @@ class HikkaInfoMod(loader.Module):
     @loader.unrestricted
     @loader.command(
         ru_doc="Отправить информацию по типу 'Что такое Bampi?'",
+        ua_doc="Надіслати інформацію за типом 'Що таке Bampi?'",
         de_doc="Sende Informationen über den Bot",
         tr_doc="Bot hakkında bilgi gönderir",
         hi_doc="बॉट के बारे में जानकारी भेजें",
@@ -589,6 +634,7 @@ class HikkaInfoMod(loader.Module):
 
     @loader.command(
         ru_doc="<текст> - Изменить текст в .info",
+        ua_doc="<текст> - Змінити текст у .info",
         de_doc="<text> - Ändere den Text in .info",
         tr_doc="<metin> - .info'da metni değiştir",
         uz_doc="<matn> - .info'dagi matnni o'zgartirish",
