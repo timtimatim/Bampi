@@ -1093,7 +1093,7 @@ class TestMod(loader.Module):
             "🌘 Your Hikka logs will appear in this chat",
             silent=True,
             invite_bot=True,
-            avatar="https://github.com/hikariatama/assets/raw/master/hikka-logs.png",
+            avatar="https://cloud4box.com/wp-content/uploads/2021/09/logi-i-seo.png",
         )
 
         self._logchat = int(f"-100{chat.id}")
