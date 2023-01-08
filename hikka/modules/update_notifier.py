@@ -15,7 +15,7 @@ class UpdateNotifierMod(loader.Module):
         "name": "UpdateNotifier",
         "update_required": (
             "🌘 <b>Bampi Update available!</b>\n\nNew Hikka version released.\n🔮"
-            " <b>Hikka <s>{}</s> -> {}</b>\n\n{}"
+            " <b>Bampi <s>{}</s> -> {}</b>\n\n{}"
         ),
         "more": "\n<i><b>🎥 And {} more...</b></i>",
         "_cfg_doc_disable_notifications": "Disable update notifications",
@@ -26,14 +26,28 @@ class UpdateNotifierMod(loader.Module):
 
     strings_ru = {
         "update_required": (
-            "🌘 <b>Доступно обновление Bampi!</b>\n\nОпубликована новая версия Hikka.\n🔮"
-            " <b>Hikka <s>{}</s> -> {}</b>\n\n{}"
+            "🌘 <b>Доступно обновление Bampi!</b>\n\nОпубликована новая версия Bampi.\n🔮"
+            " <b>Bampi <s>{}</s> -> {}</b>\n\n{}"
         ),
         "more": "\n<i><b>🎥 И еще {}...</b></i>",
         "_cfg_doc_disable_notifications": "Отключить уведомления об обновлениях",
         "latest_disabled": "Уведомления о последнем обновлении были отключены",
         "update": "🔄 Обновить",
         "ignore": "🚫 Игнорировать",
+
+    }
+
+    strings_ua = {
+        "update_required": (
+            "🌘 <b>Доступне оновлення Bampi!</b>\n\nОпубліковано нову версію Bampi.\n🔮"
+            " <b>Bampi <s>{}</s> -> {}</b>\n\n{}"
+        ),
+        "more": "\n<i><b>🎥 И еще {}...</b></i>",
+        "_cfg_doc_disable_notifications": "Вимкнути повідомлення про оновлення",
+        "latest_disabled": "Повідомлення про останнє оновлення було вимкнено",
+        "update": "🔄 Оновити",
+        "ignore": "🚫 ігнорувати",
+
     }
 
     strings_de = {
