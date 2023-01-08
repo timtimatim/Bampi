@@ -13,7 +13,7 @@ def register(cb):
 
 
 class ModChannels(loader.Module):
-    """Показывает список каналов с модулями для юзер бота"""
+    """Показывает список каналов с модулями для юзер бота)"""
     strings = {'name': 'ModChannels'}
 
     async def modchcmd(self, message):
