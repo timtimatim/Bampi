@@ -476,7 +476,7 @@ class HikkaInfoMod(loader.Module):
             ),
             loader.ConfigValue(
                 "banner_url",
-                "https://thumbs.gfycat.com/GaseousPoorHedgehog-size_restricted.gif",
+                "https://te.legra.ph/file/44be27d3fbf3758044936.mp4",
                 lambda: self.strings("_cfg_banner"),
                 validator=loader.validators.Link(),
             ),
