@@ -1,11 +1,3 @@
-#             █ █ ▀ █▄▀ ▄▀█ █▀█ ▀
-#             █▀█ █ █ █ █▀█ █▀▄ █
-#              © Copyright 2022
-#           https://t.me/hikariatama
-#
-# 🔒      Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-
 import asyncio
 import contextlib
 
@@ -22,7 +14,7 @@ class UpdateNotifierMod(loader.Module):
     strings = {
         "name": "UpdateNotifier",
         "update_required": (
-            "🌘 <b>Hikka Update available!</b>\n\nNew Hikka version released.\n🔮"
+            "🌘 <b>Bampi Update available!</b>\n\nNew Hikka version released.\n🔮"
             " <b>Hikka <s>{}</s> -> {}</b>\n\n{}"
         ),
         "more": "\n<i><b>🎥 And {} more...</b></i>",
@@ -34,7 +26,7 @@ class UpdateNotifierMod(loader.Module):
 
     strings_ru = {
         "update_required": (
-            "🌘 <b>Доступно обновление Hikka!</b>\n\nОпубликована новая версия Hikka.\n🔮"
+            "🌘 <b>Доступно обновление Bampi!</b>\n\nОпубликована новая версия Hikka.\n🔮"
             " <b>Hikka <s>{}</s> -> {}</b>\n\n{}"
         ),
         "more": "\n<i><b>🎥 И еще {}...</b></i>",
@@ -46,7 +38,7 @@ class UpdateNotifierMod(loader.Module):
 
     strings_de = {
         "update_required": (
-            "🌘 <b>Hikka Update verfügbar!</b>\n\nNeue Hikka Version veröffentlicht.\n🔮"
+            "🌘 <b>Hikka Update verfügbar!</b>\n\nNeue Bampi Version veröffentlicht.\n🔮"
             " <b>Hikka <s>{}</s> -> {}</b>\n\n{}"
         ),
         "more": "\n<i><b>🎥 Und {} mehr...</b></i>",
