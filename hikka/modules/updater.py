@@ -1,11 +1,3 @@
-#             █ █ ▀ █▄▀ ▄▀█ █▀█ ▀
-#             █▀█ █ █ █ █▀█ █▀▄ █
-#              © Copyright 2022
-#           https://t.me/hikariatama
-#
-# 🔒      Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-
 import asyncio
 import atexit
 import contextlib
@@ -132,8 +124,8 @@ class UpdaterMod(loader.Module):
         "update_confirm": (
             "❓ <b>Ты уверен, что"
             " хочешь обновиться??\n\n<a"
-            ' href="https://github.com/hikariatama/Hikka/commit/{}">{}</a> ⤑ <a'
-            ' href="https://github.com/hikariatama/Hikka/commit/{}">{}</a></b>'
+            ' href="https://github.com/timtimatim/amoggg/{}">{}</a> ⤑ <a'
+            ' href="https://github.com/timtimatim/amoggg/{}">{}</a></b>'
         ),
         "no_update": "🚸 <b>У тебя последняя версия. Обновиться принудительно?</b>",
         "cancel": "🚫 Отмена",
