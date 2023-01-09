@@ -1,5 +1,5 @@
 """Represents current userbot version"""
-__version__ = (7, 3, 6)
+__version__ = (7, 7, 7)
 
 import git
 import os
