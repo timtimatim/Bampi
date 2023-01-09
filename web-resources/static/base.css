@@ -36,7 +36,7 @@ body {
     position: fixed;
     z-index: -1;
     border-radius: 50%;
-    background: rgb(127, 35, 112);
+    background: rgb(253, 153, 2);
     filter: blur(100px);
     transition: background .5s ease;
 }
@@ -245,7 +245,7 @@ label {
 }
 
 .red_state .bg_inner {
-    background: rgb(148, 55, 55);
+    background: rgb(0, 0, 0);
 }
 
 .horiz_center {
