@@ -476,7 +476,7 @@ class HikkaInfoMod(loader.Module):
             ),
             loader.ConfigValue(
                 "banner_url",
-                "https://te.legra.ph/file/44be27d3fbf3758044936.mp4",
+                "https://i.gifer.com/3UsO.gif",
                 lambda: self.strings("_cfg_banner"),
                 validator=loader.validators.Link(),
             ),
