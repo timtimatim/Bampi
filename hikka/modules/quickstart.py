@@ -377,7 +377,7 @@ class QuickstartMod(loader.Module):
                 [
                     {
                         "text": self.strings("btn_support"),
-                        "url": "https://t.me/hikka_talks",
+                        "url": "https://t.me/Bampiss",
                     }
                 ],
             ]
@@ -406,6 +406,7 @@ class QuickstartMod(loader.Module):
                     }
                     for lang in [
                         "ru",
+                        "ua",
                         "en",
                         "uz",
                         "tr",
