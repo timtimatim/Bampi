@@ -61,8 +61,8 @@ class UpdaterMod(loader.Module):
         "update_confirm": (
             "❓ <b>Are you sure you"
             " want to update?\n\n<a"
-           ' href="https://github.com/timtimatim/amoggg/commit{}">{}</a> ⤑ <a'
-            ' href="https://github.com/timtimatim/amoggg/commit{}">{}</a></b>'
+           ' href="https://github.com/timtimatim/Bampi/commit{}">{}</a> ⤑ <a'
+            ' href="https://github.com/timtimatim/Bampi/commit{}">{}</a></b>'
         ),
         "no_update": "🚸 <b>You are on the latest version, pull updates anyway?</b>",
         "cancel": "🚫 Cancel",
@@ -124,8 +124,8 @@ class UpdaterMod(loader.Module):
         "update_confirm": (
             "❓ <b>Ты уверен, что"
             " хочешь обновиться??\n\n<a"
-            ' href="https://github.com/timtimatim/amoggg/commit{}">{}</a> ⤑ <a'
-            ' href="https://github.com/timtimatim/amoggg/commit{}">{}</a></b>'
+            ' href="https://github.com/timtimatim/Bampi/commit{}">{}</a> ⤑ <a'
+            ' href="https://github.com/timtimatim/Bampi/commit{}">{}</a></b>'
         ),
         "no_update": "🚸 <b>У тебя последняя версия. Обновиться принудительно?</b>",
         "cancel": "🚫 Отмена",
@@ -181,8 +181,8 @@ class UpdaterMod(loader.Module):
         "update_confirm": (
             "❓ <b>Ти впевнений, що"
             " хочеш оновитися??\n\n<a"
-            ' href="https://github.com/timtimatim/amoggg/commit{}">{}</a> ⤑ <a'
-            ' href="https://github.com/timtimatim/amoggg/commit{}">{}</a></b>'
+            ' href="https://github.com/timtimatim/Bampi/commit{}">{}</a> ⤑ <a'
+            ' href="https://github.com/timtimatim/Bampi/commit{}">{}</a></b>'
         ),
         "no_update": "🚸 <b>У тебе остання версія. Обновитися примусово?</b>",
         "cancel": "🚫 скасувати",

@@ -31,7 +31,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Hi! This is Bampi — powerful modular Telegram userbot. You can"
             " install it to your account!</b>\n\n<b>🌍 <a"
-             ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👾 <a'
+             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
             ' href="https://t.me/Bampiss">Install</a></b>'
         ),
     }
@@ -53,7 +53,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Привет! Это Bampi — мощный модульный Telegram юзербот. Вы можете"
             " установить его на свой аккаунт!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👾 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
             ' href="https://t.me/Bampiss">Установить</a></b>'
         ),
     }
@@ -75,7 +75,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Вітаю! Це Bampi - потужний модульний Telegram юзербот. Ви можете"
             " встановити його на свій акаунт!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/timtimatim/amoggg">GitHub</a></b>\n<b>👾 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
             ' href="https://t.me/Bampiss">Встановити</a></b>'
         ),
     }
@@ -97,7 +97,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Hallo! Das ist Bampi — mächtiger modulare Telegram Userbot. Du kannst"
             " ihn auf deinen Account installieren!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">Support Chat</a></b>'
         ),
     }
@@ -119,7 +119,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Merhaba! Bu Hikka — güçlü modüler Telegram kullanıcı botu. Hesabınıza"
             " kurup, kullanabilirsiniz!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">Destek sohbeti</a></b>'
         ),
     }
@@ -141,7 +141,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>नमस्ते! यह Hikka है — एक मजबूत और मॉड्यूलर टेलीग्राम यूजरबॉट। आप इसे"
             " अपने अकाउंट पर इंस्टॉल कर सकते हैं!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">सपोर्ट चैट</a></b>'
         ),
     }
@@ -164,7 +164,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>Salom! Bu Hikka - kuchli modulli Telegram userboti. Siz uni"
             " o'zingizni akkauntingizga o'rnatishingiz mumkin!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">Yordam chati</a></b>'
         ),
     }
@@ -185,7 +185,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>こんにちは！これはHikkaです — 力強いモジュール式のTelegramユーザーボットです。"
             "あなたはそれをあなたのアカウントにインストールすることができます！</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">サポートチャット</a></b>'
         ),
     }
@@ -206,7 +206,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>안녕하세요! 이것은 Hikka입니다 — 강력하고 모듈식인 Telegram 사용자 봇입니다."
             "당신은 그것을 당신의 계정에 설치할 수 있습니다!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">지원 채팅</a></b>'
         ),
     }
@@ -228,7 +228,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>مرحبًا! هذا هو Hikka - مستخدم بوت تيليغرام قوي وموديولي. يمكنك تثبيته"
             " على حسابك!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">دردشة الدعم</a></b>'
         ),
     }
@@ -250,7 +250,7 @@ class InlineStuffMod(loader.Module):
         "this_is_hikka": (
             "🌘 <b>¡Hola! Este es Hikka - un poderoso bot de usuario modular de"
             " Telegram. ¡Puedes instalarlo en tu cuenta!</b>\n\n<b>🌍 <a"
-            ' href="https://github.com/hikariaitama/Hikka">GitHub</a></b>\n<b>👥 <a'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
             ' href="https://t.me/hikka_talks">Chat de soporte</a></b>'
         ),
     }
