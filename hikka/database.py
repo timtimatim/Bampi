@@ -1,11 +1,3 @@
-#             █ █ ▀ █▄▀ ▄▀█ █▀█ ▀
-#             █▀█ █ █ █ █▀█ █▀▄ █
-#              © Copyright 2022
-#           https://t.me/hikariatama
-#
-# 🔒      Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-
 import json
 import logging
 import os
@@ -113,7 +105,7 @@ class Database(dict):
                 "hikka-assets",
                 "🌆 Your Hikka assets will be stored here",
                 archive=True,
-                avatar="https://raw.githubusercontent.com/hikariatama/assets/master/hikka-assets.png",
+                avatar="https://www.goha.ru/s/f/N2/EV/bmEuphiPTm.jpg",
             )
         except ChannelsTooMuchError:
             self._assets = None
