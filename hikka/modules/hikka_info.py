@@ -550,7 +550,7 @@ class HikkaInfoMod(loader.Module):
                         "<emoji document_id=5469741319330996757>💫</emoji>",
                         "<emoji document_id=5449918202718985124>🌳</emoji>",
                         "<emoji document_id=5472111548572900003>⌨️</emoji>",
-                        "пон",
+                        "<emoji document_id=5451646226975955576>⌛️</emoji>",
                     ),
                 )
             )
