@@ -98,7 +98,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Hallo! Das ist Bampi — mächtiger modulare Telegram Userbot. Du kannst"
             " ihn auf deinen Account installieren!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Support Chat</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Support Chat</a></b>'
         ),
     }
 
@@ -120,7 +120,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Merhaba! Bu Hikka — güçlü modüler Telegram kullanıcı botu. Hesabınıza"
             " kurup, kullanabilirsiniz!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Destek sohbeti</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Destek sohbeti</a></b>'
         ),
     }
 
@@ -142,7 +142,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>नमस्ते! यह Hikka है — एक मजबूत और मॉड्यूलर टेलीग्राम यूजरबॉट। आप इसे"
             " अपने अकाउंट पर इंस्टॉल कर सकते हैं!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">सपोर्ट चैट</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">सपोर्ट चैट</a></b>'
         ),
     }
 
@@ -165,7 +165,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Salom! Bu Hikka - kuchli modulli Telegram userboti. Siz uni"
             " o'zingizni akkauntingizga o'rnatishingiz mumkin!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Yordam chati</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Yordam chati</a></b>'
         ),
     }
 
@@ -186,7 +186,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>こんにちは！これはHikkaです — 力強いモジュール式のTelegramユーザーボットです。"
             "あなたはそれをあなたのアカウントにインストールすることができます！</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">サポートチャット</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">サポートチャット</a></b>'
         ),
     }
 
@@ -207,7 +207,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>안녕하세요! 이것은 Hikka입니다 — 강력하고 모듈식인 Telegram 사용자 봇입니다."
             "당신은 그것을 당신의 계정에 설치할 수 있습니다!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">지원 채팅</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">지원 채팅</a></b>'
         ),
     }
 
@@ -229,7 +229,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>مرحبًا! هذا هو Hikka - مستخدم بوت تيليغرام قوي وموديولي. يمكنك تثبيته"
             " على حسابك!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">دردشة الدعم</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">دردشة الدعم</a></b>'
         ),
     }
 
@@ -251,7 +251,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>¡Hola! Este es Hikka - un poderoso bot de usuario modular de"
             " Telegram. ¡Puedes instalarlo en tu cuenta!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👥 <a'
-            ' href="https://t.me/hikka_talks">Chat de soporte</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Chat de soporte</a></b>'
         ),
     }
 

@@ -50,9 +50,9 @@ class TestMod(loader.Module):
             " for</b> <code>{}</code> <b>seconds</b>"
         ),
         "results_ping": (
-            "<emoji document_id=6321050180095313397>⏱</emoji> <b>Telegram ping:</b>"
+            "<emoji document_id=5370869711888194012>👾</emoji><b>Bampi ping:</b>"
             " <code>{}</code> <b>ms</b>\n<emoji"
-            " document_id=5377371691078916778>😎</emoji> <b>Uptime: {}</b>"
+            "</b><emoji document_id=5469741319330996757>💫</emoji><b>Uptime: {}</b>"
         ),
         "ping_hint": (
             "<emoji document_id=5472146462362048818>💡</emoji> <i>Telegram ping mostly"
