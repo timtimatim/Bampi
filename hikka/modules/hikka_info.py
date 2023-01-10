@@ -546,11 +546,11 @@ class HikkaInfoMod(loader.Module):
                         utils.get_platform_emoji()
                         if self._client.hikka_me.premium and not inline
                         else "🌘 Bampi",
-                        "<emoji document_id=5373141891321699086>😎</emoji>",
-                        "<emoji document_id=5469741319330996757>💫</emoji>",
-                        "<emoji document_id=5449918202718985124>🌳</emoji>",
-                        "<emoji document_id=5472111548572900003>⌨️</emoji>",
-                        "<emoji document_id=5451646226975955576>⌛️</emoji>",
+                        "<emoji document_id=5188561402578607393>🍷</emoji>>",
+                        "<emoji document_id=5188318058321551531>🥑</emoji>",
+                        "<emoji document_id=5188603961409543819>🤰</emoji>",
+                        "<emoji document_id=5188529125899379306>🛼</emoji>",
+                        "<emoji document_id=5188177801869533985>❗️</emoji>",
                     ),
                 )
             )
