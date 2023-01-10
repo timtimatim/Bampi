@@ -37,7 +37,7 @@ class HelpMod(loader.Module):
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 No docs",
         "support": (
-            "{} <b>Link to </b><a href='https://t.me/hikka_talks'>support chat</a></b>"
+            "{} <b>Link to </b><a href='https://t.me/Bampiss'>support chat</a></b>"
         ),
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>Userbot is not"
@@ -47,7 +47,7 @@ class HelpMod(loader.Module):
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>No exact match"
             " occured, so the closest result is shown instead</b>"
         ),
-        "request_join": "You requested link for Hikka support chat",
+        "request_join": "You requested link for Bampi support chat",
         "core_notice": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>This is a core"
             " module. You can't unload it nor replace</b>"
@@ -76,7 +76,7 @@ class HelpMod(loader.Module):
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 Нет описания",
         "support": (
-            "{} <b>Ссылка на </b><a href='https://t.me/hikka_talks'>чат помощи</a></b>"
+            "{} <b>Ссылка на </b><a href='https://t.me/Bampiss'>чат помощи</a></b>"
         ),
         "_cls_doc": "Показывает помощь по модулям",
         "partial_load": (
@@ -87,10 +87,50 @@ class HelpMod(loader.Module):
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>Точного совпадения"
             " не нашлось, поэтому было выбрано наиболее подходящее</b>"
         ),
-        "request_join": "Вы запросили ссылку на чат помощи Hikka",
+        "request_join": "Вы запросили ссылку на чат помощи Bampi",
         "core_notice": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>Это встроенный"
             " модуль. Вы не можете его выгрузить или заменить</b>"
+        ),
+    }
+
+    strings_ua = {
+        "bad_module": "<b>🚫 <b>Модуль</b> <code>{}</code> <b>не знайдений</b>",
+        "single_mod_header": (
+            "<emoji document_id=5188377234380954537>🌘</emoji> <b>{}</b>:"
+        ),
+        "single_cmd": "\n▫️ <code>{}{}</code> {}",
+        "undoc_cmd": "🦥 Немає опису",
+        "all_header": (
+            "<emoji document_id=5188377234380954537>🌘</emoji> <b>{} модулів доступно,"
+            " {} приховано:</b>"
+        ),
+        "mod_tmpl": "\n{} <code>{}</code>",
+        "first_cmd_tmpl": ": ( {}",
+        "cmd_tmpl": " | {}",
+        "no_mod": "🚫 <b>Вкажи модуль(-і), які потрібно приховати</b>",
+        "hidden_shown": (
+            "<emoji document_id=5188377234380954537>🌘</emoji> <b>{} модулів приховано,"
+            " {} модулів показано:</b>\n{}\n{}"
+        ),
+        "ihandler": "\n🎹 <code>{}</code> {}",
+        "undoc_ihandler": "🦥 Немає опису",
+        "support": (
+            "{} <b>Посилання на </b><a href='https://t.me/Bampiss'>чат допомоги</a></b>"
+        ),
+        "_cls_doc": "Показує допомогу по модулям",
+        "partial_load": (
+            "<emoji document_id=5472105307985419058>☝️</emoji> <b>Юзербот еще не"
+            " завантажився повністю, тому показані не всі модулі</b>"
+        ),
+        "not_exact": (
+            "<emoji document_id=5472105307985419058>☝️</emoji> <b>Точний збіга"
+            " не знайшлося, тому було обрано найбільш підходяще</b>"
+        ),
+        "request_join": "Ви запросили посилання на чат допомоги Bampi",
+        "core_notice": (
+            "<emoji document_id=5472105307985419058>☝️</emoji> <b>Це вбудований"
+            " модуль. Ви не можете його вивантажити чи замінити</b>"
         ),
     }
 
@@ -116,7 +156,7 @@ class HelpMod(loader.Module):
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 Keine Dokumentation",
         "support": (
-            "{} <b>Link zum </b><a href='https://t.me/hikka_talks'>Supportchat</a></b>"
+            "{} <b>Link zum </b><a href='https://t.me/Bampiss'>Supportchat</a></b>"
         ),
         "_cls_doc": "Zeigt Hilfe zu Modulen an",
         "partial_load": (
@@ -155,7 +195,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 Dokümantasyon yok",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>Destek sohbeti</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>Destek sohbeti</a></b>",
         "_cls_doc": "Modül yardımını gösterir",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>Kullanıcı botu"
@@ -193,7 +233,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 दस्तावेज़ीकरण नहीं",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>सपोर्ट चैट</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>सपोर्ट चैट</a></b>",
         "_cls_doc": "मॉड्यूल सहायता दिखाता है",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>उपयोगकर्ता बॉट अभी भी"
@@ -231,7 +271,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 Hujjatlanmagan",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>Yordam chat</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>Yordam chat</a></b>",
         "_cls_doc": "Modul yordamini ko'rsatadi",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>Foydalanuvchi boti"
@@ -269,7 +309,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 ドキュメント化されていません",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>サポートチャット</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>サポートチャット</a></b>",
         "_cls_doc": "モジュールのヘルプを表示します",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>ユーザーボットはまだ完全に"
@@ -306,7 +346,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 문서화되지 않음",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>지원 채팅</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>지원 채팅</a></b>",
         "_cls_doc": "모듈 도움말을 표시합니다",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>사용자 봇이 아직 완전히"
@@ -344,7 +384,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 لم يتم توثيقه",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>دردشة الدعم</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>دردشة الدعم</a></b>",
         "_cls_doc": "عرض مساعدة الموديول",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>لم يتم تحميل البوت"
@@ -382,7 +422,7 @@ class HelpMod(loader.Module):
         ),
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 Sin documentar",
-        "support": "{} <b><a href='https://t.me/hikka_talks'>Chat de soporte</a></b>",
+        "support": "{} <b><a href='https://t.me/Bampiss'>Chat de soporte</a></b>",
         "_cls_doc": "Muestra la ayuda del módulo",
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>El bot no se ha"
