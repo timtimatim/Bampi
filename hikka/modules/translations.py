@@ -44,7 +44,7 @@ class Translations(loader.Module):
         "show_inline_cmds": "📄 Show all available inline commands",
         "no_inline_cmds": "You have no available commands",
         "no_inline_cmds_msg": (
-            "<b>😔 There are no available inline commands or you lack access to them</b>"
+            "<b>👾To use commands you need to make Bampi</b>"
         ),
         "inline_cmds": "ℹ️ You have {} available command(-s)",
         "inline_cmds_msg": "<b>ℹ️ Available inline commands:</b>\n\n{}",
@@ -89,7 +89,7 @@ class Translations(loader.Module):
         "show_inline_cmds": "📄 Показать все доступные встроенные команды",
         "no_inline_cmds": "У вас нет доступных inline команд",
         "no_inline_cmds_msg": (
-            "<b>😔 Нет доступных inline команд или у вас нет доступа к ним</b>"
+            "<b>👾Чтобы использовать команды вам надо сделать Bampi</b>"
         ),
         "inline_cmds": "ℹ️ У вас {} доступная(-ых) команда(-ы)",
         "inline_cmds_msg": "<b>ℹ️ Доступные inline команды:</b>\n\n{}",
@@ -134,7 +134,7 @@ class Translations(loader.Module):
         "show_inline_cmds": "📄 Показати всі доступні вбудовані команди",
         "no_inline_cmds": "У вас немає доступних inline команд",
         "no_inline_cmds_msg": (
-           "<b>👾Чтобы пользоваться командами вам надо сделать Bampi</b>  <a href="https://t.me/Bampiss">Встановити</a>"
+           "<b>👾Щоб використовувати команди, вам треба зробити Bampi</b>"
         ),
         "inline_cmds": "ℹ️ У вас {} доступна(-их) команда(-и)",
         "inline_cmds_msg": "<b>ℹ️ Доступні inline команди:</b>\n\n{}",
