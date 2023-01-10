@@ -467,7 +467,7 @@ class HikkaInfoMod(loader.Module):
             ),
             loader.ConfigValue(
                 "custom_button",
-                ["🌘 Bampi chat", "https://t.me/Bampiss"],
+                ["👾Установить Bampi", "https://teletype.in/@bampi/BampiInstall"],
                 lambda: self.strings("_cfg_cst_btn"),
                 validator=loader.validators.Union(
                     loader.validators.Series(fixed_len=2),
