@@ -63,6 +63,23 @@ class HikkaSecurityMod(loader.Module):
         "seconds": "секунд(-ы)",
     }
 
+    service_strings_ua = {
+        "for": "на",
+        "forever": "назавжди",
+        "command": "команду",
+        "module": "модуль",
+        "chat": "чату",
+        "user": "користувачеві",
+        "day": "день",
+        "days": "дня(-ей)",
+        "hour": "година",
+        "hours": "години",
+        "minute": "хвилина",
+        "minutes": "хвилин(и)",
+        "second": "секунда",
+        "seconds": "секунд(-и)",
+    }
+
     service_strings_de = {
         "for": "für",
         "forever": "für immer",
@@ -1425,6 +1442,7 @@ class HikkaSecurityMod(loader.Module):
     @loader.owner
     @loader.command(
         ru_doc="[команда] - Настроить разрешения для команды",
+        ua_doc="[команда] - Налаштувати дозволи для команди",
         de_doc="[command] - Einstellungen für Befehle ändern",
         hi_doc="[command] - कमांड के लिए अनुमतियाँ सेट करें",
         tr_doc="[command] - Komut için izinleri ayarla",
@@ -1462,6 +1480,7 @@ class HikkaSecurityMod(loader.Module):
     @loader.owner
     @loader.command(
         ru_doc="[команда] - Настроить разрешения для инлайн команды",
+        ua_doc="[команда] - Налаштувати дозволи для інлайн команди",
         de_doc="[command] - Einstellungen für Inline-Befehle ändern",
         hi_doc="[command] - इनलाइन कमांड के लिए अनुमतियाँ सेट करें",
         tr_doc="[command] - Inline komut için izinleri ayarla",
@@ -1653,6 +1672,7 @@ class HikkaSecurityMod(loader.Module):
 
     @loader.command(
         ru_doc="<пользователь> - Добавить пользователя в группу `sudo`",
+        ua_doc="<користувач> - Додати користувача до групи `sudo`",
         de_doc="<Benutzer> - Füge Benutzer zur `sudo`-Gruppe hinzu",
         hi_doc="<उपयोगकर्ता> - उपयोगकर्ता को `sudo` समूह में जोड़ें",
         tr_doc="<kullanıcı> - Kullanıcıyı `sudo` grubuna ekle",
