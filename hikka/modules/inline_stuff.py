@@ -32,7 +32,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Hi! This is Bampi — powerful modular Telegram userbot. You can"
             " install it to your account!</b>\n\n<b>🌍 <a"
              ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
-            ' href="https://t.me/Bampiss">Install</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Install</a></b>'
         ),
     }
 
@@ -54,7 +54,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Привет! Это Bampi — мощный модульный Telegram юзербот. Вы можете"
             " установить его на свой аккаунт!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
-            ' href="https://t.me/Bampiss">Установить</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Установить</a></b>'
         ),
     }
 
@@ -76,7 +76,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Вітаю! Це Bampi - потужний модульний Telegram юзербот. Ви можете"
             " встановити його на свій акаунт!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
-            ' href="https://t.me/Bampiss">Встановити</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Встановити</a></b>'
         ),
     }
 
