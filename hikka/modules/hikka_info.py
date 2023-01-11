@@ -174,7 +174,7 @@ class HikkaInfoMod(loader.Module):
             " Userbot - Software, die auf deinem Telegram-Account läuft. Wenn du"
             " einen Befehl in irgendeinem Chat schreibst, wird er dort ausgeführt."
             " Sieh dir Live-Beispiele auf <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a>'
         ),
     }
 
@@ -214,7 +214,7 @@ class HikkaInfoMod(loader.Module):
             " एनीमेटेड इमोजी की समर्थन के साथ अनेक सुविधाएं हैं। यूजरबॉट - सॉफ़्टवेयर"
             " जो आपके टेलीग्राम अकाउंट पर चलती है। जब आप किसी चैट में किसी आदेश"
             " लिखते हैं, तो वह तुरंत उसे देखता है। जाँच करें <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a>'
         ),
     }
 
@@ -258,7 +258,7 @@ class HikkaInfoMod(loader.Module):
             " hamda animatsiyalangan emojilar. Userbot - bu sening"
             " telegram-akkauntingni ichida ishlaydigan ilova. Hohlagan chatga komanda"
             " yozsangiz, tez orada bu komanda ishlaydi. <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a> da misollarni'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a> da misollarni'
             " ko'rishingiz mumkin"
         ),
     }
@@ -298,7 +298,7 @@ class HikkaInfoMod(loader.Module):
             " formlar, listeler ve animasyonlu emoji desteği gibi. Kullanıcı botu -"
             " Telegram hesabınızda çalışan bir yazılımdır. Bir sohbete bir komut"
             " yazarsanız, hemen orada çalışacaktır. Örnekleri görmek için <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub\'ı ziyaret'
+            ' href="https://github.com/timtimatim/Bampi">GitHub\'ı ziyaret'
             " edebilirsin</a>"
         ),
     }
@@ -337,7 +337,7 @@ class HikkaInfoMod(loader.Module):
             " アニメーション付きの絵文字など。ユーザーボットは、Telegramアカウント内で"
             " 動作するアプリケーションです。チャットにコマンドを入力すると、すぐに"
             " そのコマンドが実行されます。例を見るには、<a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>を参照してください'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a>を参照してください'
         ),
     }
 
@@ -374,7 +374,7 @@ class HikkaInfoMod(loader.Module):
             " 제공하는 사용자 봇입니다. 예를 들어 온라인 갤러리, 양식, 목록, 애니메이션"
             " Emoji 등. 사용자 봇은 Telegram 계정 내에서 작동하는 애플리케이션입니다."
             " 채팅에 명령을 입력하면 즉시 해당 명령이 실행됩니다. 예를 보려면 <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>를 참조하십시오'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a>를 참조하십시오'
         ),
     }
 
@@ -412,7 +412,7 @@ class HikkaInfoMod(loader.Module):
             " مستخدم يوفر ميزات متعددة. على سبيل المثال: معرض عبر الإنترنت، نموذج،"
             " قائمة، Emoji الرسوم المتحركة وغيرها. بوت المستخدم هو تطبيق يعمل داخل حساب"
             " Telegram. يتم تنفيذ أوامر الدردشة على الفور. لمزيد من المعلومات، يرجى"
-            ' زيارة <a href="https://github.com/hikariatama/Hikka">GitHub</a>'
+            ' زيارة <a href="https://github.com/timtimatim/Bampi">GitHub</a>'
         ),
     }
 
@@ -455,7 +455,7 @@ class HikkaInfoMod(loader.Module):
             " formulario, lista, Emoji animado y más. El bot de usuario es una"
             " aplicación que funciona dentro de una cuenta de Telegram. Las órdenes de"
             " chat se ejecutan de inmediato. Para obtener más información, consulte <a"
-            ' href="https://github.com/hikariatama/Hikka">GitHub</a>'
+            ' href="https://github.com/timtimatim/Bampi">GitHub</a>'
         ),
     }
 
@@ -467,7 +467,7 @@ class HikkaInfoMod(loader.Module):
             ),
             loader.ConfigValue(
                 "custom_button",
-                ["👾Установить Bampi", "https://teletype.in/@bampi/BampiInstall"],
+                ["👾Install Bampi", "https://teletype.in/@bampi/BampiInstall"],
                 lambda: self.strings("_cfg_cst_btn"),
                 validator=loader.validators.Union(
                     loader.validators.Series(fixed_len=2),
@@ -582,7 +582,7 @@ class HikkaInfoMod(loader.Module):
                 else {"message": self._render_info(True)}
             ),
             "thumb": (
-                "https://github.com/hikariatama/Hikka/raw/master/assets/hikka_pfp.png"
+                "https://github.com/timtimatim/Bampi/raw/master/assets/hikka_pfp.png"
             ),
             "reply_markup": self._get_mark(),
         }
