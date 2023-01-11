@@ -76,8 +76,7 @@ class InlineStuffMod(loader.Module):
             "🌘 <b>Вітаю! Це Bampi - потужний модульний Telegram юзербот. Ви можете"
             " встановити його на свій акаунт!</b>\n\n<b>🌍 <a"
             ' href="https://github.com/timtimatim/Bampi">GitHub</a></b>\n<b>👾 <a'
-            ' href="https://teletype.in/@bampi/BampiInstall">Встановити</a></b>'\n<b>👾 <a'
-            ' href="https://teletype.in/@bampi/BampiInstall">ddи</a></b>'
+            ' href="https://teletype.in/@bampi/BampiInstall">Встановити</a></b>'
         ),
     }
 
