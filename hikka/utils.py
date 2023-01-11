@@ -888,7 +888,7 @@ def get_platform_emoji(client: typing.Optional[CustomTelegramClient] = None) -> 
     if "RAILWAY" in os.environ:
         return BASE.format(5199607521593007466)
 
-    return BASE.format(5192765204898783881)
+    return BASE.format(5370869711888194012)
 
 
 def uptime() -> int:
