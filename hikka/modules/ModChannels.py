@@ -1,4 +1,4 @@
-# meta developer: @bampiss
+# meta developer: @BampiChat
 import random
 import logging
 from .. import loader, utils
