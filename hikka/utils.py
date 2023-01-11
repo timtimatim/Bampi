@@ -862,8 +862,8 @@ def get_platform_emoji(client: typing.Optional[CustomTelegramClient] = None) -> 
     """
     BASE = (
         "<emoji document_id={}>🌘</emoji>",
-        "<emoji document_id=5195311729663286630>🌘</emoji>",
-        "<emoji document_id=5195045669324201904>🌘</emoji>",
+        "<emoji document_id=5370869711888194012>🌘</emoji>",
+        "<emoji document_id=5370869711888194012>🌘</emoji>",
     )
 
     if client and (
